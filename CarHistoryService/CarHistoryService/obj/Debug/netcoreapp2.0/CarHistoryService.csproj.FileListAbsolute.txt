@@ -1,0 +1,11 @@
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\bin\Debug\netcoreapp2.0\CarHistoryService.deps.json
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\bin\Debug\netcoreapp2.0\CarHistoryService.runtimeconfig.json
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\bin\Debug\netcoreapp2.0\CarHistoryService.runtimeconfig.dev.json
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\bin\Debug\netcoreapp2.0\CarHistoryService.dll
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.csprojResolveAssemblyReference.cache
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.csproj.CoreCompileInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.AssemblyInfoInputs.cache
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.AssemblyInfo.cs
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\bin\Debug\netcoreapp2.0\CarHistoryService.pdb
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.dll
+C:\IU7\RSOI\CarCheckSystem\CarHistoryService\CarHistoryService\CarHistoryService\obj\Debug\netcoreapp2.0\CarHistoryService.pdb
